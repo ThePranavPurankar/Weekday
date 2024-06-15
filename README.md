@@ -11,6 +11,3 @@ Youtube_URL:- https://youtu.be/kA1oD0lPuiM?si=YrAEWV-v239vzcPH
 
 LinkedIn_URL:- https://www.linkedin.com/in/pranavpurankar/
 
-Project Etables_URL:- https://rashigandecha.com/
-
-Project Jbcares_URL:- https://jbcares.in/
